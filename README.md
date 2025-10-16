@@ -2,9 +2,7 @@
 
 ### Hi there, I'm Ahmad Taiwo 👋
 
-<a href="https://www.linkedin.com/in/ahmad-taiwo/">
-  <img align="left" width="200px" style="margin-right: 20px;" src="YOUR_PROFILE_PICTURE_URL_HERE" />
-</a>
+[![Open To Work](https://img.shields.io/badge/-Open%20To%20Work-brightgreen?style=flat-square)](https://www.linkedin.com/in/ahmad-taiwo/)
 
 I am a results-driven Front-End Developer from Nigeria who specializes in building high-quality, scalable, and user-centric web applications. My passion lies in crafting exceptional user experiences by blending clean code with intuitive UI/UX design.
 
