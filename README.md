@@ -11,13 +11,6 @@ I am a skilled developer from Nigeria with a passion for building beautiful, fun
 - 🔭 &nbsp; I'm currently contributing to real-world projects as part of the **HNG Internship**.
 - 💬 &nbsp; Feel free to reach out if you're looking for a developer, want to collaborate, or just want to connect!
 
-**Connect with me:**
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-<br />
-<br />
-
 ---
 
 ### 🛠️ My Tech Stack
