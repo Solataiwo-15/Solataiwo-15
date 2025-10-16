@@ -1,17 +1,29 @@
-### Hi there, I'm Ahmad Taiwo 👋
+<!-- OPTION 2: Bold & Impactful -->
 
-I'm a passionate Front-End Developer from Nigeria, specializing in turning creative ideas into clean, responsive, and user-friendly web applications. I thrive on blending great design with solid functionality.
+### Hi, I'm Ahmad Taiwo 👋
 
-- 🔭 I’m currently participating in the **HNG Internship**, sharpening my skills and collaborating on exciting projects.
-- 🌱 I’m currently learning more about advanced state management and testing strategies.
-- 👯 I’m looking to collaborate on open-source projects related to frontend development.
-- 📫 How to reach me: [ahmad.taiwo.15@email.com](mailto:ahmad.taiwo.15@email.com) or on [LinkedIn](https://www.linkedin.com/in/ahmad-taiwo/).
+[![Open To Work](https://img.shields.io/badge/-Open%20To%20Work-brightgreen?style=flat-square)](https://www.linkedin.com/in/ahmad-taiwo/)
+
+### A Front-End Developer building exceptional and accessible digital experiences.
+
+I am a skilled developer from Nigeria with a passion for building beautiful, functional, and scalable web applications. My expertise lies in the modern JavaScript ecosystem, including **React, Next.js, TypeScript, and Tailwind CSS**. I am driven by the challenge of solving complex problems and creating interfaces that users love.
+
+- 🔭 &nbsp; I'm currently contributing to real-world projects as part of the **HNG Internship**.
+- 💬 &nbsp; Feel free to reach out if you're looking for a developer, want to collaborate, or just want to connect!
+
+**Connect with me:**
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+<br />
+<br />
 
 ---
 
 ### 🛠️ My Tech Stack
-
-<!-- This is a cool way to display your skills with icons! -->
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,chakra,html,css,git,vscode,figma)
 
 ---
+
+[linkedin]: https://www.linkedin.com/in/ahmad-taiwo/
+[email]: mailto:ahmad.taiwo.15@email.com
