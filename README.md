@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Ahmad Taiwo 👋
 
-<!--
-**Solataiwo-15/Solataiwo-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Front-End Developer from Nigeria, specializing in turning creative ideas into clean, responsive, and user-friendly web applications. I thrive on blending great design with solid functionality.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently participating in the **HNG Internship**, sharpening my skills and collaborating on exciting projects.
+- 🌱 I’m currently learning more about advanced state management and testing strategies.
+- 👯 I’m looking to collaborate on open-source projects related to frontend development.
+- 📫 How to reach me: [ahmad.taiwo.15@email.com](mailto:ahmad.taiwo.15@email.com) or on [LinkedIn](https://www.linkedin.com/in/ahmad-taiwo/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+<!-- This is a cool way to display your skills with icons! -->
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,chakra,html,css,git,vscode,figma)
+
+---
